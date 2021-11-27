@@ -976,6 +976,9 @@
   version "16.11.10"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-16.11.10.tgz#2e3ad0a680d96367103d3e670d41c2fed3da61ae"
   integrity sha512-3aRnHa1KlOEEhJ6+CvyHKK5vE9BcLGjtUpwvqYLRvYNQKMfabu3BwfJaA/SLW8dxe28LsNDjtHwePTuzn3gmOA==
+  version "16.11.9"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.11.9.tgz#879be3ad7af29f4c1a5c433421bf99fab7047185"
+  integrity sha512-MKmdASMf3LtPzwLyRrFjtFFZ48cMf8jmX5VRYrDQiJa8Ybu5VAmkqBWqKU8fdCwD8ysw4mQ9nrEHvzg6gunR7A==
 
 "@types/parse-json@^4.0.0":
   version "4.0.0"
@@ -1841,7 +1844,9 @@ caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000981, caniuse-lite@^1.0.30001109, can
   version "1.0.30001283"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001283.tgz#8573685bdae4d733ef18f78d44ba0ca5fe9e896b"
   integrity sha512-9RoKo841j1GQFSJz/nCXOj0sD7tHBtlowjYlrqIUS812x9/emfBLBt6IyMz1zIaYc/eRL8Cs6HPUVi2Hzq4sIg==
-
+  version "1.0.30001282"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001282.tgz#38c781ee0a90ccfe1fe7fefd00e43f5ffdcb96fd"
+  integrity sha512-YhF/hG6nqBEllymSIjLtR2iWDDnChvhnVJqp+vloyt2tEHFG1yBR+ac2B/rOw0qOK0m0lEXU2dv4E/sMk5P9Kg==
 case-sensitive-paths-webpack-plugin@^2.2.0:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/case-sensitive-paths-webpack-plugin/-/case-sensitive-paths-webpack-plugin-2.4.0.tgz#db64066c6422eed2e08cc14b986ca43796dbc6d4"
@@ -2000,6 +2005,9 @@ color-string@^1.6.0:
   version "1.7.4"
   resolved "https://registry.yarnpkg.com/color-string/-/color-string-1.7.4.tgz#79a7bf242610a8aa1b5e2681f3bf6bcfa666245f"
   integrity sha512-nVdUvPVgZMpRQad5dcsCMOSB5BXLljklTiaxS6ehhKxDsAI5sD7k5VmFuBt1y3Rlym8uulc/ANUN/bMWtBu6Sg==
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/color-string/-/color-string-1.6.0.tgz#c3915f61fe267672cb7e1e064c9d692219f6c312"
+  integrity sha512-c/hGS+kRWJutUBEngKKmk4iH3sD59MBkoxVapS/0wgpCz2u7XsNloxknyvBhzwEs1IbV36D9PwqLPJ2DTu3vMA==
   dependencies:
     color-name "^1.0.0"
     simple-swizzle "^0.2.2"
@@ -2682,7 +2690,10 @@ electron-to-chromium@^1.3.896:
   version "1.4.3"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.3.tgz#82480df3ef607f04bb38cc3f30a628d8b895339f"
   integrity sha512-hfpppjYhqIZB8jrNb0rNceQRkSnBN7QJl3W26O1jUv3F3BkQknqy1YTqVXkFnIcFtBc3Qnv5M7r5Lez2iOLgZA==
-
+  version "1.3.904"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.904.tgz#52a353994faeb0f2a9fab3606b4e0614d1af7b58"
+  integrity sha512-x5uZWXcVNYkTh4JubD7KSC1VMKz0vZwJUqVwY3ihsW0bst1BXDe494Uqbg3Y0fDGVjJqA8vEeGuvO5foyH2+qw==
+  
 elliptic@^6.5.3:
   version "6.5.4"
   resolved "https://registry.yarnpkg.com/elliptic/-/elliptic-6.5.4.tgz#da37cebd31e79a1367e941b592ed1fbebd58abbb"
@@ -4270,6 +4281,9 @@ lines-and-columns@^1.1.6:
   version "1.2.4"
   resolved "https://registry.yarnpkg.com/lines-and-columns/-/lines-and-columns-1.2.4.tgz#eca284f75d2965079309dc0ad9255abb2ebc1632"
   integrity sha512-7ylylesZQ/PV29jhEDl3Ufjo6ZX7gCqJr5F7PKrqc93v7fzSymt1BpwEU8nAUXs8qzzvqhbjhK5QZg6Mt/HkBg==
+  version "1.1.6"
+  resolved "https://registry.yarnpkg.com/lines-and-columns/-/lines-and-columns-1.1.6.tgz#1c00c743b433cd0a4e80758f7b64a57440d9ff00"
+  integrity sha1-HADHQ7QzzQpOgHWPe2SldEDZ/wA=
 
 load-json-file@^1.0.0:
   version "1.1.0"
